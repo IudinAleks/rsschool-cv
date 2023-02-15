@@ -12,6 +12,7 @@
 * **Location:** Volgograg, Russia
 * **Email:** a.s.yudinmail@gmail.com
 * **Telegram:** @IudinAleks
+* **Discord:** IudinAleks
 * **GitHub:** [IudinAleks](https://github.com/IudinAleks "GitHub")
 
 ***
