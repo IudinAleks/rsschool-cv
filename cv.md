@@ -52,8 +52,12 @@ function arrayToTree(array) {
 
 ### Education
 
+* ![Codewars](https://www.codewars.com/users/IudinAleks/badges/small "Codewars")
 * RS Schools Course «JavaScript/Front-end. Stage 0» (***Completed: Score Points 422***)
 
 ***
 
-* ![Codewars](https://www.codewars.com/users/IudinAleks/badges/small "Codewars")
+### Languages
+
+* Russian - Proficiency
+* English - A1
