@@ -38,3 +38,22 @@ function arrayToTree(array) {
   })(0);
 };
 ```
+
+***
+
+### Experience
+
+* **Freelance:**
+    + [Pravo34](https://www.pravo34.ru/ "Pravo34")
+    + [Dommaster34](https://dommaster34.ru/ "dommaster34")
+    + [MD Group](https://zav.demetra.bz/ "MD Group")
+
+***
+
+### Education
+
+* RS Schools Course «JavaScript/Front-end. Stage 0» (***Completed: Score Points 422***)
+
+***
+
+* ![Codewars](https://www.codewars.com/users/IudinAleks/badges/small "Codewars")
