@@ -16,6 +16,15 @@
 
 ***
 
+### Skills
+
+ * Javascript/ES5/ES6
+ * HTML/CSS3
+ * Node.JS/Express
+ * React 
+
+***
+
 ### Code example
 
 **Kata:** Fun with trees: array to tree
